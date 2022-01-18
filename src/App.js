@@ -85,7 +85,8 @@ export default function App() {
         {!isRunning && <button className="start-button" onClick={start}>Start</button>}
         {isRunning && <button className="stop-button" onClick={doReset}>Stop</button>}
       </div>
-      <form>
+      <form className='ranges'>
+        <label htmlFor='rate'>rate</label>
         <input 
           type='range' 
           name='rate' 
@@ -95,6 +96,7 @@ export default function App() {
           step="0.1" 
           onChange={(e) => setRate(e.target.value)}
         />
+        <label htmlFor='pitch'>pitch</label>
         <input 
           type='range' 
           name='pitch' 
@@ -104,7 +106,6 @@ export default function App() {
           step="0.1" 
           onChange={(e) => setPitch(e.target.value)}
         />
-
       </form>
     </div>
   );

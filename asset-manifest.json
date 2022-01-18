@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Speech/static/css/main.2a3d0a26.chunk.css",
+    "main.js": "/Speech/static/js/main.eb0390e5.chunk.js",
+    "main.js.map": "/Speech/static/js/main.eb0390e5.chunk.js.map",
+    "runtime-main.js": "/Speech/static/js/runtime-main.01186912.js",
+    "runtime-main.js.map": "/Speech/static/js/runtime-main.01186912.js.map",
+    "static/js/2.9d400f63.chunk.js": "/Speech/static/js/2.9d400f63.chunk.js",
+    "static/js/2.9d400f63.chunk.js.map": "/Speech/static/js/2.9d400f63.chunk.js.map",
+    "index.html": "/Speech/index.html",
+    "precache-manifest.159f8d7a3a9e11001bf1a420e0088074.js": "/Speech/precache-manifest.159f8d7a3a9e11001bf1a420e0088074.js",
+    "service-worker.js": "/Speech/service-worker.js",
+    "static/css/main.2a3d0a26.chunk.css.map": "/Speech/static/css/main.2a3d0a26.chunk.css.map",
+    "static/js/2.9d400f63.chunk.js.LICENSE.txt": "/Speech/static/js/2.9d400f63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01186912.js",
+    "static/js/2.9d400f63.chunk.js",
+    "static/css/main.2a3d0a26.chunk.css",
+    "static/js/main.eb0390e5.chunk.js"
+  ]
+}
